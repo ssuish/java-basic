@@ -27,4 +27,4 @@ replay_pid*
 /shelf/
 *out/
 BasicJavaApp.iml
-.idea/workspace.xml
+*.idea/
