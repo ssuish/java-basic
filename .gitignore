@@ -25,7 +25,7 @@ replay_pid*
 
 # Default ignored files
 /shelf/
-/workspace.xml
 *out/
 BasicJavaApp.iml
 *.idea/
+.idea/workspace.xml
